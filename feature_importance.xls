@@ -1,0 +1,19 @@
+feature,                               importance
+annuity_to_credit              ,0.14099182
+active_loans,                      0.113476396
+AMT_GOODS_PRICE,     0.10062002
+age,                                            0.09656614
+total_bureau_loans,          0.08303905
+max_overdue_days,           0.06799348
+AMT_ANNUITY,                    0.06120676
+debt_to_income,                0.061203394
+AMT_CREDIT,                          0.0573946
+annuity_to_income,            0.053390518
+total_debt,                                 0.04524001
+credit_to_income,                0.04321042
+AMT_INCOME_TOTAL,       0.038082737
+flag_dpd90,                              0.037584607
+flag_dpd30,0.0
+flag_dpd60,0.0
+flag_missing_annuity,0.0
+flag_missing_income,0.0
